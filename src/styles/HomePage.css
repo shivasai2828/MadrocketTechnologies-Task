@@ -1,0 +1,134 @@
+.home-page {
+  min-height: 100vh;
+}
+.header {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-page .carousel {
+  display: flex;
+  overflow: auto;
+  white-space: nowrap;
+  margin: 20px 0;
+}
+
+.home-page .carousel-item {
+  display: inline-block;
+  padding: 10px;
+  background-color: #ecf0f1;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.quick-links {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.quick-links a {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.slider-container {
+  background-color: #419be0;
+  padding: 10px 60px;
+
+  text-align: center;
+}
+.slider-container h2 {
+  font-size: 40px;
+  color: #ecf0f1;
+}
+.slider-container p {
+  font-size: 25px;
+  color: black;
+}
+
+.back-to-school {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #1e90ff;
+  color: white;
+
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+  max-width: 50%;
+  padding: 20px;
+}
+
+.content h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.content button {
+  background-color: #ff8c00;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.image-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container img {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+@media (max-width: 768px) {
+  .back-to-school {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .content,
+  .image-container {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .content button {
+    margin-top: 10px;
+  }
+  .home-heading {
+    font-size: 25px;
+  }
+}
+.para-home {
+  color: black;
+}
+button Link {
+  color: black;
+}
+@media screen and (max-width: 780px) {
+  .slider-container p {
+    font-size: 14px;
+  }
+  .home-heading {
+    font-size: 20px;
+  }
+}

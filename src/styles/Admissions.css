@@ -1,0 +1,32 @@
+.admissions {
+  padding: 20px;
+}
+
+.admissions h2 {
+  margin-bottom: 10px;
+}
+
+.admissions h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.admissions ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.admissions p {
+  margin-bottom: 10px;
+}
+.downloade-para {
+  color: black;
+}
+.admissions button {
+  color: #fff;
+  padding: 8px 17px;
+  border: 0px;
+  border-radius: 8px;
+  font-size: 15px;
+  background-color: indianred;
+}

@@ -1,0 +1,28 @@
+.students {
+  padding: 20px;
+}
+
+.students h2 {
+  margin-bottom: 10px;
+}
+
+.students h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.students ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.students li {
+  background-color: #ecf0f1;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.students p {
+  margin-bottom: 10px;
+}

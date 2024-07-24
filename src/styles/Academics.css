@@ -1,0 +1,21 @@
+.academics {
+  padding: 20px;
+}
+
+.academics h2 {
+  margin-bottom: 10px;
+}
+
+.academics h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.academics ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.academics p {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,17 @@
+.quick-links {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.quick-links a {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.quick-links a:hover {
+  background-color: #2980b9;
+}

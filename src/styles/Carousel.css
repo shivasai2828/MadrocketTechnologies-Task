@@ -1,0 +1,16 @@
+.carousel {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+.carousel-item {
+  flex: 0 0 100%;
+  transition: transform 0.5s ease-in-out;
+}
+.carouser-img {
+  width: 50%;
+  background-size: cover;
+}

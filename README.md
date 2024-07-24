@@ -1,3 +1,76 @@
+LIVE LINK :  https://madrocket-technologies-task.vercel.app/
+
+## Features
+- **Home Page**
+  - Introduction to the school with name, logo, and description
+  - Carousel/banner showcasing key highlights/events
+  - Quick links to important sections
+
+- **About Us**
+  - Detailed information about school's history, vision, mission, and values
+  - Message from the principal
+  - Information about school's infrastructure and facilities
+
+- **Academics**
+  - Information about curriculum offered
+  - Details of various subjects taught at different levels
+  - Information about teaching methodologies and educational resources
+
+- **Admissions**
+  - Admission process and criteria
+  - Downloadable admission forms
+  - Important dates and deadlines
+
+- **Faculty**
+  - Profiles of teaching and administrative staff
+  - Qualifications and experience
+
+- **Students**
+  - Information about student life, extracurricular activities, clubs, and societies
+  - Achievements and accolades
+  - Student council information
+
+- **Gallery**
+  - Photo and video gallery with filtering functionality
+
+- **Contact Us**
+  - School’s address, contact numbers, email, and contact form
+  - Google Maps integration
+
+## Technologies Used
+
+- React.js
+- Bootstrap/Tailwind CSS
+- React Router
+- Redux/Context API
+- Formik/Yup for form handling
+- ARIA roles for accessibility
+- Lazy loading for performance optimization
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/springdale-public-school.git
+    cd springdale-public-school
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+    ```bash
+    npm start
+    ```
+
+2. Open your browser and visit `http://localhost:3000`.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

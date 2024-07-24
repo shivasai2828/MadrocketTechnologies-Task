@@ -40,12 +40,9 @@ LIVE LINK :  https://madrocket-technologies-task.vercel.app/
 ## Technologies Used
 
 - React.js
-- Bootstrap/Tailwind CSS
 - React Router
-- Redux/Context API
-- Formik/Yup for form handling
-- ARIA roles for accessibility
-- Lazy loading for performance optimization
+- react-icons
+- react slick
 
 ## Installation
 
